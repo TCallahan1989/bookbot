@@ -1,2 +1,4 @@
 # bookbot
-Python Bookbot for breaking down information on literature.
+
+BookBot is my first [Boot.dev](https://www.boot.dev) project!
+dd
